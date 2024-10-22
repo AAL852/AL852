@@ -8,4 +8,5 @@ By evaluating these models on a standardized dataset, we seek to determine which
 
 There are three ipynb respecting to three models, including data preprocessing, Model Architectures and everything.
 
-And the dataset of these three model used is from https://github.com/ZeoVan/MSR_20_Code_vulnerability_CSV_Dataset
+And the dataset used in these three model is from https://github.com/ZeoVan/MSR_20_Code_vulnerability_CSV_Dataset
+The cleaned version of split functions(CSV format) can also be found at: https://drive.google.com/file/d/1-0VhnHBp9IGh90s2wCNjeCMuy70HPl8X/view?usp=sharing
